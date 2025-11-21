@@ -1,0 +1,55 @@
+﻿,Researchers in R&D: per Million People
+Region,United States
+Subnational,
+Frequency,"Annual, ending ""Dec"" of each year"
+Unit,Ratio
+Source,World Bank
+Status,Active
+Series ID,274038702
+SR Code,SR5357800
+Trade Code,
+Mnemonic,
+Function Description,
+First Obs. Date,1996
+Last Obs. Date,2021
+Last Update Time,07/10/2025
+Series Remarks,"The number of researchers engaged in Research &Development (R&D), expressed as per million. Researchers are professionals who conduct research and improve or develop concepts, theories, models techniques instrumentation, software of operational methods. R&D covers basic research, applied research, and experimental development.;Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources/bulk, publisher: UNESCO Institute for Statistics (UIS), date accessed: 2025-03-26, date published: 2025-02;Weighted average;"
+Suggestions,
+Mean,3738.751334615386
+Variance,135204.1204212852
+Standard Deviation,367.70112920860765
+Skewness,1.2852040985521431
+Kurtosis,2.269083224579814
+Coefficient Variation,0.09834864538976726
+Min,3126.53057
+Max,4825.1804
+Median,3650.839625
+Sum,97207.53469999999
+Subtract,-1698.6498300000003
+No. of Obs,26
+1996,3126.53057
+1997,3237.46993
+1998,3413.24357
+1999,3478.63413
+2000,3487.83262
+2001,3529.26596
+2002,3576.98706
+2003,3779.03771
+2004,3637.14002
+2005,3560.28174
+2006,3596.55336
+2007,3543.24508
+2008,3668.58989
+2009,3790.4393
+2010,3550.08505
+2011,3659.09511
+2012,3642.58414
+2013,3725.75931
+2014,3824.01193
+2015,3858.04036
+2016,3809.11997
+2017,3931.60035
+2018,4226.79136
+2019,4265.92083
+2020,4464.09495
+2021,4825.1804
